@@ -1,3 +1,6 @@
+# Ignore pandoc generated report.docx
+report.docx
+
 # System files
 .DS_Store
 
